@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Mindfulness Meditation",
+      "issues": "Anxiety, Stress, Depression",
+      "description": "Focus on breathing or present sensations without judgment. Notice thoughts and feelings as they arise, then let them go."
+    },
+    {
+      "name": "Loving-kindness Meditation (Metta)",
+      "issues": "Self-criticism, Anger, Resentment",
+      "description": "Cultivate feelings of love and compassion towards oneself and others. Repeat phrases like 'May I be happy, may I be healthy, may I be safe, may I live with ease.'"
+    },
+    {
+      "name": "Body Scan Meditation",
+      "issues": "Chronic Pain, Body Tension",
+      "description": "Focus on each part of the body sequentially, bringing awareness and relaxation to tense areas."
+    },
+    {
+      "name": "Breath Awareness Meditation",
+      "issues": "Racing Thoughts, Lack of Focus",
+      "description": "Focus solely on the breath—observe the inhalation and exhalation to anchor the mind and calm thoughts."
+    },
+    {
+      "name": "Visualization Meditation",
+      "issues": "Low Self-Esteem, Lack of Motivation",
+      "description": "Imagine positive outcomes or serene environments. Visualize goals and aspirations to boost confidence and motivation."
+    },
+    {
+      "name": "Walking Meditation",
+      "issues": "Restlessness, Hyperactivity",
+      "description": "Slow, deliberate walking while maintaining awareness of each step and sensations. Can be grounding and calming."
+    },
+    {
+      "name": "Mantra Meditation",
+      "issues": "Racing Thoughts, Overwhelming Emotions",
+      "description": "Repeat a calming word or phrase silently. Focus on the rhythm and sound to quiet the mind."
+    },
+    {
+      "name": "Transcendental Meditation (TM)",
+      "issues": "Insomnia, Sleep Disorders",
+      "description": "Use a specific mantra assigned by a teacher. Practice twice daily for 20 minutes to promote deep relaxation and improve sleep."
+    },
+    {
+      "name": "Progressive Muscle Relaxation",
+      "issues": "Anxiety, Tension",
+      "description": "Tense and relax muscle groups progressively, starting from the toes up to the head. Helps release physical tension and calm the mind."
+    },
+    {
+      "name": "Soothing Sound Meditation",
+      "issues": "Difficulty Concentrating, Irritability",
+      "description": "Focus on calming sounds like nature, white noise, or calming music to improve focus and reduce irritability."
+    }
+  ]
+  
